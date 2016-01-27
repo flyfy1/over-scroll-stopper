@@ -1,6 +1,6 @@
 {
   "name": "over-scroll-stopper",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This is a reactJS component, and it take a div as children. This would prevent over-scroll of this div on the page, both on the phone, and desktop",
   "main": "index.js",
   "scripts": {
